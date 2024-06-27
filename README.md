@@ -10,6 +10,10 @@ Welcome to CalcMaster, your go-to online calculator for quick and easy calculati
 - **Loan Calculator**: Determine your monthly loan payments based on loan amount, interest rate, and term.
 - **Fixed Deposit Calculator**: Calculate the maturity amount of a fixed deposit investment over a specified period.
 
+## Demo
+
+![demo](https://github.com/TharukaSenevirathne/Calculator/assets/149087555/98e5731d-99b9-4b3d-8d8f-780d2bbd6bf2)
+
 ## Getting Started
 
 ### Prerequisites
