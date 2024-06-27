@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(to right,  #C39BD3 10%, #5B2C6F 90%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.wel{
+    font-family: 'Courier New', monospace;
+}
+
+#you{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: monospace;
+    width:100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: 
+    typing 2s steps(18),
+    cursor .2s step-end infinite alternate;
+}
+
+@keyframes typing{
+    from{width:0}
+}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+main p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+    line-height: 1.6;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    color: black;
+    background: #f0f0f0;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: background 0.3s, color 0.3s;
+}
+
+.btn:hover {
+    background: black;
+    color: #f0f0f0;
+}
+
+.btn:before{
+    content: "";
+    position: absolute;
+    left:550px;
+    top:347px;
+    width:0;
+    height:0;
+    border-top: 2px solid white;
+}
+
+
+
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+}
