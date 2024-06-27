@@ -1,6 +1,6 @@
 # CalcMaster
 
-Welcome to CalcMaster, your go-to online calculator for quick and easy calculations. Simplify your math tasks with our user-friendly interface and efficient functionality.
+Welcome to QuickCalc, your go-to online calculator for quick and easy calculations. Simplify your math tasks with our user-friendly interface and efficient functionality.
 
 ## Features
 
@@ -80,4 +80,4 @@ Welcome to CalcMaster, your go-to online calculator for quick and easy calculati
 Contributions are welcome! Please fork this repository and submit pull requests for any improvements or new features.
 
 
-Thank you for using CalcMaster! Happy calculating!
+Thank you for using QuickCalc! Happy calculating!
